@@ -28,6 +28,7 @@ git clone https://github.com/abdulwadood2146/Line-Following-robot.git
 cd ..
 colcon build
 source install/setup.bash
+```
 
 ## Launch Gazebo Simulation
 
